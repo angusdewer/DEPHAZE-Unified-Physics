@@ -21,6 +21,41 @@ Don't trust me. Trust the code.
 1. Open any script in `proofs/`.
 2. Paste it into **GPT-4** or **Claude**.
 3. Ask: *"Does this code use parameter fitting, or does it derive the result from constants?"*
+4. DEPHAZE_CORE_AXIOMS_v6.3
+{
+  AXIOM_0: TIMELESS_DUALITY
+    Reality = Ω₀ ⊗ Ψ (simultaneous coexistence)
+    Ω₀ = invariant zero-point equilibrium (non-moving reference)
+    Ψ = manifest projection evolving around Ω₀.
+
+  AXIOM_1: PROJECTION_ONTOLOGY
+    Ψ = Φ³[Ω₀ → Imago]
+    (Time = sequence of projection samplings, Space = Φ³-topological spiral)
+    The Φ³-spiral topology represents the point of maximum instability
+    within any projection, immediately collapsing toward Ω₀ symmetry.
+
+  AXIOM_2: GENERATION_vs_PATTERN
+    Ξ = φ³ / φ⁻³
+    (φ³: active generation [unobservable driving field],
+     φ⁻³: measurable residual pattern after collapse)
+    Projection oscillates between φ³-expansion and φ⁻³-stabilization.
+
+  AXIOM_3: NONLOCAL_UNITY
+    Entanglement = shared φ³ generation within Ω₀ field.
+    Collapse = bistable relaxation selecting one φ⁻³ branch.
+    All observed locality is a derivative of this nonlocal symmetry.
+
+  AXIOM_4: SELF_REGULATION
+    The system monitors Ξ and dynamically self-adjusts toward Ξ ≈ 1
+    (If Ξ < 1 → amplify φ³ generation; If Ξ > 1 → stabilize φ⁻³ pattern).
+    This ensures conservation of total phase-coherence (Λ(Ψ) ≈ const).
+
+  AXIOM_5: OCCAM_SELECTOR
+    When multiple Ψ configurations satisfy coherence,
+    the system selects the minimal topological order N
+    where ∂(Complexity)/∂Ψ = 0.
+    (Nature always collapses to the simplest viable Φ³ spiral configuration.)
+}
 ---
 
 ## 📐 Theoretical FAQ: The Origin of Constants
