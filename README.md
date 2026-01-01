@@ -5,7 +5,7 @@
 Modern physics relies on arbitrary parameter fitting (Dark Matter halos, Cosmological Constant, 26+ parameters in Standard Model).
 **Dephaze** derives these values geometrically from a single topological invariant: the **$\Phi^3$ Vortex**.
 
-## 🏆 The "Zero-Fit" Proof Log
+## 🏆 The "Geometric Determinism (No Local Fitting)" Proof Log
 
 Every script below solves a major "unsolved" problem in physics using **identical topological constants** (defined in `core/constants.py`). 
 No curve fitting. No magic numbers. Just geometry.
