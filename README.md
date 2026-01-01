@@ -48,7 +48,7 @@ The exponent (3) represents the **Spatial Dimensions (D)** of our universe:
 
 ---
 
-## ⚔️ The "Zero-Fit" Comparison
+## ⚔️ The "Geometric Determinism (No Local Fitting)" Comparison
 
 Why Dephaze changes the paradigm:
 
