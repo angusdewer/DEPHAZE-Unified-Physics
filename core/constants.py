@@ -1,23 +1,32 @@
 """
 DEPHAZE CORE CONSTANTS
 ----------------------
-The source of truth. No magic numbers.
-All physical derivations originate from these geometric invariants.
+The Source of Truth.
+Zero fitting parameters. All values derived from a single geometric seed.
 """
 import numpy as np
 
-# 1. THE SEED
-PHI = (1.0 + np.sqrt(5.0)) / 2.0  # The Golden Ratio (1.618...)
+# ==========================================
+# 1. THE SEED (The Most Irrational Number)
+# ==========================================
+PHI = (1.0 + np.sqrt(5.0)) / 2.0  # 1.6180339887...
 
-# 2. THE TOPOLOGY
-PHI2 = PHI ** 2   # Surface Topology (Expansion)
-PHI3 = PHI ** 3   # Volumetric Topology (Projection / The Master Key)
-PHI5 = PHI ** 5   # Stability Horizon (Hyper-surface)
+# ==========================================
+# 2. THE TOPOLOGICAL DIMENSIONS
+# ==========================================
+PHI2 = PHI ** 2   # 2D: Surface (Used for Alpha)
+PHI3 = PHI ** 3   # 3D: Volume (Used for Drag)
+PHI5 = PHI ** 5   # 5D: Stability Horizon (Used for Hubble & Proton) <-- EZ HIÁNYZOTT!
 
-# 3. THE DYNAMICS
-# The "Friction" of existence. The cost of projecting from timeless Omega0 to temporal Psi.
+# ==========================================
+# 3. THE DYNAMICS (Derived Mechanics)
+# ==========================================
+# The energy cost of projecting a non-closing spiral into 3D space.
 BISTABLE_DRAG = 2.0 / PHI3  
 
-# 4. UNIVERSAL SCALING
-# Used for Galaxy Rotation (C) and Cosmology
-UPSILON_GEO = 7.5e-4
+# ==========================================
+# 4. UNIVERSAL SCALING (Cosmology & Galaxies)
+# ==========================================
+# Derivation: The Volumetric (3rd power) projection of the Stability Horizon (Phi^5).
+# Logic: (Phi^5)^-3 = Phi^-15
+UPSILON_GEO = PHI ** -15  # Exact geometric value: ~0.000733...
